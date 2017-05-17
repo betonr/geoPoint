@@ -1,0 +1,16 @@
+{
+    "name":"geocod",
+      "scripts": {
+        "start": "node app.js"
+    },
+    "version": "0.9.0",
+    "author": {
+        "name": "Carlos Alberto Noronha",
+        "email": "beto_noronha@live.com"
+    },
+    "description": "API responsável por realizar o calculo de um ponto em uma linha, através de uma numeração",
+    "dependencies": {
+        "express":"~4.15.2",
+        "body-parser": "~1.17.1"
+    }
+}
