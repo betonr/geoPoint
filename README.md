@@ -1,4 +1,4 @@
-# Encontrando um ponto
+# Localizando um ponto
 API para encontar as coordenadas de um ponto em uma linha, através de uma numeração. 
 Desenvolvida em nodeJs e express.
 
