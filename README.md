@@ -13,6 +13,7 @@ Onde faz-se necessário encontra um determinado ponto(número) dentro de uma lin
   
     -- <strong>servidor/api/</strong>
   * ex: localhost:4000/api/
+  
   json : {
     'geometria': 'LINESTRING(-5612216.31036159 -2483779.77237868,-5586392.59640211 -2477356.89795182)',
     'nf': 10, 
