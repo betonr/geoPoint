@@ -20,8 +20,10 @@ Onde faz-se necessário encontra um determinado ponto(número) dentro de uma lin
     'number': 60
    }
    
-   *lengend: nf -> numbero inicial da rua
+   *lengend: 
+   *         nf -> numbero inicial da rua
    *         ni -> numero final da rua
+   *         number -> numero desejado, para encontrar o ponto
   
 ## Resultado
 Retorna um array em um arquivo Json, com as coordenadas do ponto e o erro.
