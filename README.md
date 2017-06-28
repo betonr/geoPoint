@@ -8,6 +8,7 @@ Onde faz-se necessário encontra um determinado ponto(número) dentro de uma lin
 
 ## Modo de uso
   - faça o clone do repositorio;
+  - instale as dependências, com: npm install, dentro do repositorio;
   - levante o servidor node, com: $ nodejs app;
   - acesse o navegador informando a url com o paramentros via POST(json);
   
@@ -22,9 +23,9 @@ Onde faz-se necessário encontra um determinado ponto(número) dentro de uma lin
    }
    
    *lengend: 
-   *         nf -> numbero inicial da rua
-   *         ni -> numero final da rua
-   *         number -> numero desejado, para encontrar o ponto
+            nf -> numbero inicial da rua
+            ni -> numero final da rua
+            number -> numero desejado, para encontrar o ponto
   
 ## Resultado
 Retorna um array em um arquivo Json, com as coordenadas do ponto e o erro.
